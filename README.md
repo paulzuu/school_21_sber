@@ -66,25 +66,3 @@ school_21_sberbank/
 | **Визуализация** | Matplotlib, Seaborn, Plotly |
 | **Машинное обучение** | Scikit-learn, GridSearchCV, Pipelines, ансамбли |
 | **Парсинг** | Requests, BeautifulSoup, HH.ru API, RSS |
-
-## Диплом
-
-Диплом об окончании DS Bootcamp — [`ds_bootcamp/graduation_diploma.pdf`](./ds_bootcamp/graduation_diploma.pdf)
-
-## Как использовать
-
-1.  Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/[Your-Username]/[Your-Repo-Name].git
-    ```
-2.  Перейдите в директорию нужного проекта:
-    ```bash
-    cd [Your-Repo-Name]/ds_bootcamp
-    ```
-3.  Создайте и активируйте виртуальное окружение:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # для macOS/Linux
-    venv\Scripts\activate  # для Windows
-    pip install -r requirements.txt
-    ```
