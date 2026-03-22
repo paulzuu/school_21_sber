@@ -44,7 +44,7 @@ school_21_sberbank/
 ## Проекты
 
 <details>
-<summary><strong>DS Bootcamp — Data Science Bootcamp (Школа 21 × Сбербанк)</strong></summary>
+<summary><strong>Data Science Bootcamp</strong></summary>
 
 **Описание:** Интенсив по Data Science. Первая часть охватывает создание ИИ-агента, инструменты командной строки, основы Python и ООП, заканчиваясь командным проектом по анализу датасета MovieLens. Вторая часть посвящена Pandas, SQL, визуализации данных, классическому ML и завершается командным проектом по подбору питания.
 
