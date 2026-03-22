@@ -1,4 +1,4 @@
-# DS Bootcamp в Школе 21
+# DS Bootcamp
 
 ![Python](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-1.3.5-blue)
