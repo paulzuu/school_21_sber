@@ -18,26 +18,32 @@
 | Проект | Тема | Статус |
 |---|---|---|
 | [`ds_bootcamp`](./ds_bootcamp/README.md) | Data Science Bootcamp: от UNIX и Python до ML и ИИ-агентов | ✅ Завершён |
+| [`ml`](./ml/README.md) | Machine Learning: линейные модели, регуляризация, валидация и отбор признаков | 🔄 В процессе |
 
 ## Структура репозитория
 
 ```
 school_21_sberbank/
-└── ds_bootcamp/
-    ├── AI1_Agent/
-    ├── DSB1_UNIX_Command_Line/
-    ├── DSB2_Syntax_Semantics/
-    ├── DSB3_OOP_skills/
-    ├── DSB4_Package_management/
-    ├── DSB5_Efficient_code_practices/
-    ├── DSB6_MovieLens_Analytics/
-    ├── DSB7_Pandas/
-    ├── DSB8_SQL_Pandas/
-    ├── DSB9_Pandas_SQL_Data_Visualization/
-    ├── DSB10_Intro_to_ML/
-    ├── DSB11_ML_Advanced/
-    ├── DSB12_Food_nutrition/
-    ├── requirements.txt
+├── ds_bootcamp/
+│   ├── AI1_Agent/
+│   ├── DSB1_UNIX_Command_Line/
+│   ├── DSB2_Syntax_Semantics/
+│   ├── DSB3_OOP_skills/
+│   ├── DSB4_Package_management/
+│   ├── DSB5_Efficient_code_practices/
+│   ├── DSB6_MovieLens_Analytics/
+│   ├── DSB7_Pandas/
+│   ├── DSB8_SQL_Pandas/
+│   ├── DSB9_Pandas_SQL_Data_Visualization/
+│   ├── DSB10_Intro_to_ML/
+│   ├── DSB11_ML_Advanced/
+│   ├── DSB12_Food_nutrition/
+│   ├── requirements.txt
+│   └── README.md
+└── ml/
+    ├── ML1_Introduction/
+    ├── ML2_Supervised_Learning/
+    ├── ML3_Validation/
     └── README.md
 ```
 
@@ -54,6 +60,17 @@ school_21_sberbank/
 
 </details>
 
+<details>
+<summary><strong>Machine Learning</strong></summary>
+
+**Описание:** Раздел, посвящённый фундаментальному изучению методов машинного обучения. Акцент сделан на математической основе алгоритмов: вывод аналитического решения линейной регрессии, реализация линейных моделей и методов регуляризации с нуля, стратегии валидации (K-Fold, Stratified, Time Series Split, Grouped), отбор признаков (Lasso, Permutation, SHAP) и оптимизация гиперпараметров (Grid Search, Random Search, Optuna).
+
+**Ключевые технологии:** Python · NumPy · Scikit-learn · Optuna · SHAP · Matplotlib · Seaborn
+
+**Подробное описание всех заданий** → [ml/README.md](./ml/README.md)
+
+</details>
+
 ## Карта навыков
 
 | Область | Технологии и инструменты |
@@ -65,4 +82,5 @@ school_21_sberbank/
 | **Анализ данных** | Pandas, NumPy, SQL (SQLite) |
 | **Визуализация** | Matplotlib, Seaborn, Plotly |
 | **Машинное обучение** | Scikit-learn, GridSearchCV, Pipelines, ансамбли |
+| **ML (продвинутый)** | Линейные модели с нуля, L1/L2 регуляризация, кросс-валидация, SHAP, Optuna |
 | **Парсинг** | Requests, BeautifulSoup, HH.ru API, RSS |
