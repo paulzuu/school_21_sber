@@ -12,6 +12,7 @@
 
 ## Структура репозитория
 
+```
 ml/
 ├── ML1_Introduction/
 ├── ML2_Supervised_Learning/
@@ -19,7 +20,7 @@ ml/
 ├── ML4_Classification_Problems/
 ├── ML5_Decision_Trees/
 └── README.md
-
+```
 
 ## Проекты
 
